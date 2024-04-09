@@ -6,4 +6,4 @@
   <i class='bx bxl-html5' ></i>
 </div>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{EndrioAlberton}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{barkawi2405}/count.svg" alt="AnhellO :: Visitor's Count" /></p>

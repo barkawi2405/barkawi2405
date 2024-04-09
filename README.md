@@ -1,5 +1,5 @@
-
-<h1> Olá, seja muito bem-vindo ao meu perfil do Github!<br> Eu me chamo Eduardo Augusto. :)</h1>
+<div>
+  <h1> Olá, seja muito bem-vindo ao meu perfil do Github!<br> Eu me chamo Eduardo Augusto. :)</h1>
 <div align="center" style="display: inline_block"><br>
   <h3>Essas são as linguagens que eu tenho estudado nos últimos anos:</h3>
   <img alt="html" height="29px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,3 +20,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=barkawi2405&show_icons=true&theme=shadow_green" alt="AnhellO :: Profile Stats" /></p>
 <h4 align="center">Linguagens usadas: </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkawi2405&langs_count=10&theme=shadow_green&layout=compact" alt="AnhellO :: Top Langs" /></p>
+</div>

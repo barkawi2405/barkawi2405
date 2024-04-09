@@ -1,5 +1,5 @@
 ### Hi there 👋
- <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 <div>
 <box-icon type='logo' name='visual-studio'></box-icon>
   <i class='bx bxl-visual-studio'></i>

@@ -7,4 +7,4 @@
 </div>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{barkawi2405}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=barkawi2405&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=barkawi2405&show_icons=true&theme=dark" alt="AnhellO :: Profile Stats" /></p>

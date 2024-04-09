@@ -1,5 +1,4 @@
 <h1> Olá, seja muito bem-vindo ao meu perfil do Github!<br> Eu me chamo Eduardo Augusto. :)</h1>
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 <h2>Essas são as linguagens que eu tenho estudado nos últimos anos:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="html" height="29px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

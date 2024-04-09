@@ -1,6 +1,6 @@
-<div>
+<div align="center">
   <h1> Olá, seja muito bem-vindo ao meu perfil do Github!<br> Eu me chamo Eduardo Augusto. :)</h1>
-    <div align="center" style="display: inline_block"><br>
+    <div style="display: inline_block"><br>
       <h3>Essas são as linguagens que eu tenho estudado nos últimos anos:</h3>
       <img alt="html" height="29px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img alt="css" height="29px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">

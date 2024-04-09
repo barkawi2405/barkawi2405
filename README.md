@@ -27,7 +27,7 @@
   <br>
   <br>
   <h4 align="center">Contagem de acesso: </h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/{barkawi2405}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+  <p align="center"><img src="[https://profile-counter.glitch.me/{barkawi2405}/count.svg" alt="AnhellO :: Visitor's Count](https://camo.githubusercontent.com/7c64f48af544e9dc1d1326b8bd2f5b83bcdd41d68709c65acdd16b810f80ee55/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6261726b617769323430357d2f636f756e742e737667)" /></p>
   <h4 align="center">Status do perfil: </h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=barkawi2405&show_icons=true&theme=shadow_green" alt="AnhellO :: Profile Stats" /></p>
   <h4 align="center">Linguagens usadas: </h4>

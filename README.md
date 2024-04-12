@@ -2,7 +2,10 @@
   <h3> Olá, seja muito bem-vindo ao meu perfil do Github!<br> Eu me chamo Eduardo Augusto. :)</h3>
   <b> Hello, welcome to my Github profile!<br>My name is Eduardo Augusto. :)</b>
   <br>
-  <br>
+  <div>
+    <h3>Eu tive minha graduação no curso tecnólogo de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul (Unicsul) em 2022, ano o qual após o término me distanciei um pouco da área de T.I. Agora regresso a estudar seus tópicos e assuntos afim de ingressar na área profissionalmente.</h3>
+    <p>I had my degree in the technologyst course of Systems Analysis and Development at Cruzeiro do Sul University (Unicsul) in 2022, the year that after finishing it I distanced myself a little from the IT area. For now I've return to study its topics and subjects inr order to enter the area professionally.</p>
+  </div>
   <br>
     <div style="display: inline_block"><br>
       <h3>Essas são as linguagens que eu tenho estudado nos últimos anos:</h3>

@@ -4,7 +4,7 @@
   <br>
   <div>
     <h3>Eu tive minha graduação no curso tecnólogo de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul (Unicsul) em 2022, ano o qual após o término me distanciei um pouco da área de T.I. Agora regresso a estudar seus tópicos e assuntos afim de ingressar na área profissionalmente.</h3>
-    <p>I had my degree in the technologyst course of Systems Analysis and Development at Cruzeiro do Sul University (Unicsul) in 2022, the year that after finishing it I distanced myself a little from the IT area. For now I've return to study its topics and subjects inr order to enter the area professionally.</p>
+    <h4>I had my degree in the technologyst course of Systems Analysis and Development at Cruzeiro do Sul University (Unicsul) in 2022, the year that after finishing it I distanced myself a little from the IT area. For now I've return to study its topics and subjects inr order to enter the area professionally.</h4>
   </div>
   <br>
     <div style="display: inline_block"><br>
